@@ -197,12 +197,12 @@ article:
         icon: fas fa-hashtag
       # 分享
       share:
-        - id: qq
-          img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qq.png
-        - id: qzone
-          img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qzone.png
-        - id: weibo
-          img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/weibo.png
+        - id: #qq
+          img: #https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qq.png
+        - id: #qzone
+          img: #https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/qzone.png
+        - id: #weibo
+          img: #https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/weibo.png
         - id: # qrcode # 当id为qrcode时需要安装插件  npm i hexo-helper-qrcode
           img: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/wechat.png
         - id: # telegram
@@ -734,7 +734,7 @@ color_scheme:
   # 通用颜色
   common:
     # 主题色
-    theme: '#44D7B6'
+    theme: '#66b1ff'
     # 链接色
     link: '#2196f3'
     # 按钮色
